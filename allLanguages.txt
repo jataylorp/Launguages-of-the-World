@@ -15,3 +15,8 @@ Dothraki
 German
 French
 Here's a change to test stuff
+And now for some more languages:
+Schwaebisch
+Polish
+Malay
+Penan
