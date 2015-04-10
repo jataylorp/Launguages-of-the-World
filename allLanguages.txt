@@ -14,3 +14,4 @@ Russian
 Dothraki
 German
 French
+Pig Latin
